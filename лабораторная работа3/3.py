@@ -75,9 +75,3 @@ letter_frequencies = calculate_frequency(letter_counts)
 
 for letter, frequency in letter_frequencies.items():
     print(f"{letter}: {frequency:.2f}")
-
-
-
-
-
-
